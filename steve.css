@@ -1,0 +1,49 @@
+.cen{
+    font-size:1.5em;
+}
+
+.p1{
+    font-size:2.5em;
+}
+.p2{
+    font-size:1.5em;
+    background-color:#eee;
+    border-radius:5%;
+    margin-bottom:1em;
+}
+.steve{
+    width:600px;height:600px;
+    padding:none;
+    margin:5em;
+    margin-top:.5em;
+    background-color:#eee;
+    border-radius:50%;
+}
+html{
+    margin-right:.5em;
+    background-color:#eee;
+    border-margin:5%;
+    font-style:oblique;
+    color:black;
+    color-weight:bold;
+}
+.p3{
+    font-size:1.5em;
+    background-color:#eee;
+    border-radius:5%;
+}
+footer{
+background-color:#eee;
+border-radius:5%;
+border-bottom:5em;
+}
+.p4{
+    word-spacing:.5em;
+    font-size:150%;
+}
+.c1:hover{
+background-color:#999;
+}
+.c2{
+font-size:1em;
+}
